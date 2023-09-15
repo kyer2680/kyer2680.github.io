@@ -2,4 +2,15 @@ body {
     background-color: #CBC3E3;
 .glossary{
     color: #1F51FF	;
+    background-color: white;
+    border: 50;
+    border-color: black;
+}
+.navbar-container{
+    display: flex;
+    justify-content: center;
+}
+.clubs{
+    color:#1F51FF;
+    background-color: white;
 }
