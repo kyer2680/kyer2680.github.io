@@ -17,3 +17,7 @@ body {
 .index{
     background-color: white;
 }
+.Fav-Meals{
+    display: flex;
+    justify-content: right;
+}
