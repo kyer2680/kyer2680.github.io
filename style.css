@@ -21,3 +21,18 @@ body {
     display: flex;
     justify-content: right;
 }
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.bio{
+    background-color: lightpink
+}
+.hobbies{
+    background-color:white 
+}
+.portfolio{
+    background-color: lightpink
+}
