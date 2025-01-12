@@ -1,5 +1,5 @@
 body {
-    background-color: #CBC3E3;
+    background-color: #a6d8ed;
 .glossary{
     color: #1F51FF	;
     background-color: white;
@@ -28,11 +28,11 @@ body {
   width: 30%;
 }
 .bio{
-    background-color: lightpink
+    background-color: white
 }
 .hobbies{
-    background-color:white 
+    background-color: white 
 }
 .portfolio{
-    background-color: lightpink
+    background-color: white
 }
